@@ -1,3 +1,6 @@
 [submodule "morph-engine"]
 	path = Engine/Code
 	url = https://github.com/tankiJong/morph-engine
+[submodule "Engine/Code"]
+	path = Engine/Code
+	url = https://github.com/tankiJong/morph-engine
