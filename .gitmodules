@@ -4,3 +4,6 @@
 [submodule "Engine/Code"]
 	path = Engine/Code
 	url = https://github.com/tankiJong/morph-engine
+[submodule "Projects/RenderZoo"]
+	path = Projects/RenderZoo
+	url = https://github.com/tankiJong/render-zoo
