@@ -6,3 +6,6 @@
 	path = Projects/RenderZoo
 	url = https://github.com/tankiJong/render-zoo
 	branch = master
+[submodule "Projects/TankWar"]
+	path = Projects/TankWar
+	url = git@github.com:tankiJong/tank-war.git
