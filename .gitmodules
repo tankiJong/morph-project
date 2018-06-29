@@ -8,4 +8,4 @@
 	branch = master
 [submodule "Projects/TankWar"]
 	path = Projects/TankWar
-	url = git@github.com:tankiJong/tank-war.git
+	url = https://github.com/tankiJong/tank-war
